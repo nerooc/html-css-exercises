@@ -1,3 +1,5 @@
+ #HTML & CSS Exercises#
+ Exercises from different courses brought together in one folder.
  
 | Number | Exercise |
 | ------ | -------- |
